@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290571138083",
+    "project_id": "meuduo-2c1b3",
+    "storage_bucket": "meuduo-2c1b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290571138083:android:75872e79a71ade5f3e2d96",
+        "android_client_info": {
+          "package_name": "com.example.meuduo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxR_wlbXR3_TenSLpmR_Ti6SsrkII8hd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
